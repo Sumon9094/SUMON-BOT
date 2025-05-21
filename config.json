@@ -17,12 +17,12 @@
     "PASSWORD": "",
     "OTPKEY": "",
     "BOTNAME": "SaGor 🍒",
-    "PREFIX": "#",
+    "PREFIX": ".",
     "ADMINBOT": [
-        "61573038178753"
+        "100048281103451"
     ],
     "NDH": [
-        "61573038178753"
+        "100048281103451"
     ],
     "DATABASE": {
         "sqlite": {
