@@ -2,7 +2,7 @@ module.exports.config = {
   name: "prefix",
   version: "1.0.1",
   hasPermssion: 0,
-  credits: "SaGir",
+  credits: "SaGor",
   description: "See the bot prefix",
   commandCategory: "For admin",
   usages: "",
